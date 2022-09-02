@@ -1,1 +1,1 @@
-Display the content of my readme file
+a script that changes the working directory to the user’s home directory.
