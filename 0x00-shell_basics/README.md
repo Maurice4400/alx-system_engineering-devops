@@ -1,1 +1,1 @@
-show hidden files starting with .
+this is directory creation
