@@ -1,1 +1,1 @@
-this is hidden view
+show hidden files starting with .
