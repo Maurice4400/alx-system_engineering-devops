@@ -1,1 +1,1 @@
-Display the list of content in a directory
+this is to view all file including hidden file
