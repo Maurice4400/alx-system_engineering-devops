@@ -1,2 +1,2 @@
 #!/bin/bash
-
+grep -l /etc/passwd| grep  -H -E -o -c  "bin"  {} \; | grep :0\$
